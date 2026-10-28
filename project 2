@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Global Daily news</title>
+</head>
+<body>
+    <h1 align="center">Global Daily News</h1>
+    <p align="center">Your Trusted Source for Latest Updates</p>
+    <hr>
+    <nav align="center">
+        <a href="#world">World</a> |
+        <a href="#gaming">Gaming</a> |
+        <a href="#entertainment">Entertainment</a> |
+        <a href="#podcast">Podcast</a> |
+        <a href="#contact">Contact</a> 
+    </nav>
+    <hr>
+    <h2 id="world">World News</h2>
+    <p>Today's top headline: Global leaders meet to discuss climate change initiatives.</p>
+    <img 
